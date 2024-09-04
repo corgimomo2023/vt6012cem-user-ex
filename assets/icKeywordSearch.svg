@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>icKeywordSearch Copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="[pc]searchResult_searchBox01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-350.000000, -362.000000)">
+        <g id="icKeywordSearch" transform="translate(350.000000, 362.000000)" fill="#36B449">
+            <g id="ic_search">
+                <path d="M6.75,11.57142 C4.0914,11.57142 1.9287,9.40842 1.9287,6.75012 C1.9287,4.09152 4.0914,1.92852 6.75,1.92852 C9.4086,1.92852 11.5713,4.09152 11.5713,6.75012 C11.5713,9.40842 9.4086,11.57142 6.75,11.57142 M17.739,16.47822 L12.1107,10.84992 C12.9816,9.71322 13.5,8.29242 13.5,6.75012 C13.5,3.02202 10.4778,0.00012 6.75,0.00012 C3.0222,0.00012 0,3.02202 0,6.75012 C0,10.47792 3.0222,13.50012 6.75,13.50012 C8.2926,13.50012 9.7131,12.98142 10.8498,12.11082 L16.4781,17.73912 C16.8261,18.08712 17.3901,18.08712 17.7381,17.73912 L17.739,17.73822 C18.087,17.39022 18.087,16.82622 17.739,16.47822" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

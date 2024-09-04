@@ -1,0 +1,45 @@
+.SuggestionSearch-noInput {
+    display: none;
+}
+
+.SuggestionSearch-noInput.active {
+    display: block;
+}
+
+/* Circular progress bar */
+.progress-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.progress-container.hidden {
+    display: none;
+}
+
+.progress-circle {
+    border: 8px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 8px solid #3498db;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Hide the brand list initially */
+.SuggestionSearch-brands.hidden {
+    display: none;
+}
+
+/* Show the brand list when active */
+.SuggestionSearch-brands.active {
+    display: flex;
+}
